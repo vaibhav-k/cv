@@ -1,4 +1,4 @@
-<!-- # Vaibhav Kulshrestha -->
+# Vaibhav Kulshrestha
 
 _A Graduate student of Artificial Intelligence based in Tempe, AZ 🇺🇸_ <br>
 
@@ -42,21 +42,21 @@ Their study includes the structural analysis of molecular function of each gene 
 
 **Master's of Science (Hons.) in Biological Sciences** @ [BITS Pilani](https://www.bits-pilani.ac.in/) _(Aug 2015 - June 2021)_<br>
 
-**Bachelor's of Engineering (Hons.) in Electrical and Electronics Engineering** @ [BITS Pilani](https://www.bits-pilani.ac.in/) _(Aug 2015 - June 2021)_<br><br>
+**Bachelor's of Engineering (Hons.) in Electrical and Electronics Engineering** @ [BITS Pilani](https://www.bits-pilani.ac.in/) _(Aug 2015 - June 2021)_<br>
 
 ## 📌 Part-time work and publications
 
 **Graduate Student Assistant (GSA)** @ [Arizona State University](https://engineering.asu.edu/) _(Aug 2022 - Dec 2022)_<br>
-Instructor: Dr. Gennaro De Luca, Course: CSE 598: Introduction to Deep Learning (Fall 2022)<br><br>
+Instructor: Dr. Gennaro De Luca, Course: CSE 598: Introduction to Deep Learning (Fall 2022)<br>
 
 **Graduate Student Assistant (GSA)** @ [Arizona State University](https://engineering.asu.edu/) _(Mar 2022 - May 2022)_<br>
-Instructor: Dr. Wasif Bokhari, Course: CSE 598: Introduction to Deep Learning in Visual Computing (Spring 2022)<br><br>
+Instructor: Dr. Wasif Bokhari, Course: CSE 598: Introduction to Deep Learning in Visual Computing (Spring 2022)<br>
 
 **Dengue outbreak and severity prediction: current methods and the future scope** @ [VirusDisease](https://doi.org/10.1007/s13337-022-00767-x) _(Jan 2021 - May 2021)_<br>
 Advisor: [Dr. Raviprasad Aduri](https://universe.bits-pilani.ac.in/goa/aduri/profile)
-  <br><br>
+  <br>
 
-**RNA secondary structure prediction: A brief review** @ [BITS Pilani](https://www.bits-pilani.ac.in/goa/) _(Mar 2021 - May 2021)_<br>
+**RNA secondary structure prediction: A brief review** @ [BITS Pilani](https://www.bits-pilani.ac.in/goa/) _(Mar 2021 - May 2021)_
   - Advisor: [Dr. Raviprasad Aduri](https://universe.bits-pilani.ac.in/goa/aduri/profile)
   - Manuscript in preparation
   <br><br>
