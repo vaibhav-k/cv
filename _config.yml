@@ -1,5 +1,3 @@
-remote_theme: seanh/jekyll-theme-oatcake@0.1.25
-plugins:
-- jekyll-feed
+theme: jekyll-theme-minimal
 title: 💻✒️📄🌟
 description: Vaibhav Kulshrestha's CV
