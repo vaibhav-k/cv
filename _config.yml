@@ -1,5 +1,5 @@
 # remote_theme: seanh/jekyll-theme-oatcake@0.1.25
-remote_theme: alshedivat/al-folio
+remote_theme: alshedivat/jekyll-theme-al-folio
 plugins:
 - jekyll-feed
 title: 💻✒️📄🌟
