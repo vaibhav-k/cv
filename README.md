@@ -40,7 +40,7 @@ Their study includes the structural analysis of molecular function of each gene 
 
 **Master's of Science in Artificial Intelligence (Robotics and Autonomous Systems)** @ [Arizona State University](https://engineering.asu.edu/) _(Aug 2021 - May 2023)_<br><br>
 
-**Bachelor's of Engineering (Hons.) and Master's of Science (Hons.)** _(Aug 2015 - June 2021)_<br><br>
+**Bachelor's of Engineering (Hons.) and Master's of Science (Hons.)** @ [BITS Pilani]([https://engineering.asu.edu/](https://www.bits-pilani.ac.in/)) _(Aug 2015 - June 2021)_<br><br>
 
 ## 📌 Part-time work and publications
 
