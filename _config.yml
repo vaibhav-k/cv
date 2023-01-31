@@ -1,4 +1,7 @@
 # theme: jekyll-theme-minimal
-remote_theme: benc-uk/theme-msdark
+# remote_theme: benc-uk/theme-msdark
+remote_theme: seanh/jekyll-theme-oatcake@0.1.25
+plugins:
+- jekyll-feed
 title: Vaibhav Kulshrestha's CV
 description: Vaibhav Kulshrestha's CV
