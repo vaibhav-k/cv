@@ -1,4 +1,4 @@
-# Vaibhav Kulshrestha
+<!-- # Vaibhav Kulshrestha -->
 
 _A Graduate student of Artificial Intelligence based in Tempe, AZ 🇺🇸_ <br>
 
